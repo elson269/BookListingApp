@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="reminder_no_input_text">Please enter a book name or an author\'s name!</string>
+    <string name="reminder_no_return_result_text">No results found. Please check on your entry and try again.</string>
+    <string name="reminder_no_network">Network unavailable. Please check your network connection!</string>
+</resources>
